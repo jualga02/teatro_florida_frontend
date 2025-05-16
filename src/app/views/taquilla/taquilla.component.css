@@ -1,0 +1,33 @@
+.escenario {
+    background-color: beige;
+    color: white;
+    
+}
+
+.escenario h1 {
+    margin-top: 100px;
+    margin-bottom: 100px;
+    color: grey;
+
+}
+
+.instruc {
+    /*background-color: beige; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+
+.instruc h3 span {
+    color: aquamarine;
+}
+
+.instruc img {
+    width: 50%;
+    height: auto;
+    margin: auto;
+}
+
+.enviar {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
