@@ -42,11 +42,3 @@ testem.log
 .DS_Store
 Thumbs.db
 
-#Angular
-angular.json
-package-lock.json
-package.json
-tsconfig.app.json
-tsconfig.json
-tsconfig.spec.json
-.angular
